@@ -6,7 +6,7 @@ int main() {
     char operation;
     double num1, num2;
 
-    cout << "Simple Calculator\n";
+    cout << "SimpleCalculator\n";
     cout << "Enter an operation (+, -, *, /): ";
     cin >> operation;
 
